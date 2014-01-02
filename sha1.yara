@@ -1,7 +1,7 @@
 rule SHA1_Constants {
         meta:
                 author = "phoul (@phoul)"
-                description = "Look for SHA1 constants in binary"
+                description = "Look for SHA1 constants"
                 date = "2014-01"
                 version = "0.1"
         strings:

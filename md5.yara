@@ -1,7 +1,7 @@
 rule MD5_Constants {
         meta:
                 author = "phoul (@phoul)"
-                description = "Look for MD5 constants in binary"
+                description = "Look for MD5 constants"
                 date = "2014-01"
                 version = "0.2"
         strings:
