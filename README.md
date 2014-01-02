@@ -8,6 +8,7 @@ One-Way Hash Functions
 ----------------------
 * MD5
 * SHA1
+* SHA2
 
 Block Ciphers
 -------------
