@@ -8,7 +8,8 @@ One-Way Hash Functions
 ----------------------
 * MD5
 * SHA1
-* SHA2
+* SHA224/256
+* SHA384/512
 * RIPEMD-160
 
 Block Ciphers
