@@ -14,6 +14,7 @@ One-Way Hash Functions
 
 Block Ciphers
 -------------
+* Blowfish
 
 Pseudo-Random Number Generators
 -------------------------------
