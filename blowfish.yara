@@ -18,5 +18,5 @@ rule BLOWFISH_Constants {
 		$c10 = { F64C261C }
 		$c11 = { 1C264CF6 }
 	condition:
-                5 of them
+                6 of them
 }
