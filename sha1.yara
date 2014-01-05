@@ -15,7 +15,6 @@ rule SHA1_Constants {
 		$c7 = { FEDCBA98 }
 		$c8 = { 76543210 }
 		$c9 = { F0E1D2C3 }
-
 	condition:
                 5 of them
 }

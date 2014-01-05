@@ -1,7 +1,7 @@
 rule RIPEMD160_Constants {
         meta:
                 author = "phoul (@phoul)"
-                description = "Look for RIPEMD160 constants"
+                description = "Look for RIPEMD-160 constants"
                 date = "2014-01"
                 version = "0.1"
         strings:
@@ -15,7 +15,6 @@ rule RIPEMD160_Constants {
 		$c7 = { FEDCBA98 }
 		$c8 = { 76543210 }
 		$c9 = { F0E1D2C3 }
-
 	condition:
 		5 of them
 }

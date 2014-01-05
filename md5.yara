@@ -17,7 +17,6 @@ rule MD5_Constants {
 		// Round 2
 		$c8 = { F4D50d87 }
 		$c9 = { 78A46AD7 }
-
 	condition:
                 5 of them
 }
