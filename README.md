@@ -15,6 +15,9 @@ One-Way Hash Functions
 Block Ciphers
 -------------
 * Blowfish
+* RC6 - By @chort0[2]
+
+[2]: https://twitter.com/chort0
 
 Pseudo-Random Number Generators
 -------------------------------
