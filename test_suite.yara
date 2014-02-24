@@ -1,0 +1,8 @@
+include "blowfish.yara"
+include "md5.yara"
+include "rc6.yara"
+include "ripemd160.yara"
+include "sha1.yara"
+include "sha256.yara"
+include "sha512.yara"
+include "whirlpool.yara"
