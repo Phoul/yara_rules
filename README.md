@@ -7,10 +7,11 @@ After seeing @chort0's rule for RC6[1] on Twitter, I decided to write a few rule
 One-Way Hash Functions
 ----------------------
 * MD5
-* SHA1
+* SHA1 (Currently also triggers on RIPEMD160)
 * SHA224/256
 * SHA384/512
-* RIPEMD-160
+* RIPEMD-160 (Currently also triggers on SHA1)
+* WHIRLPOOL
 
 Block Ciphers
 -------------
